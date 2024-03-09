@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://aleplanszowki.pl/",
+    "isStagging": false,
+    "tempPassword": "examplePassword-1",
+    "delay": 5000,
+    "username": "nazwa uzytkownika",
+    "password": "haslo"
+
+  }
