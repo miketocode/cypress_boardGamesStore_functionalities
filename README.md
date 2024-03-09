@@ -1,0 +1,1 @@
+# cypress_boardGamesStore_functionalities
